@@ -1,0 +1,13 @@
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\odi setiadi\source\repos\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache
